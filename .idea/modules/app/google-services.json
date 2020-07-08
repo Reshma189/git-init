@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852196534918",
+    "firebase_url": "https://zoomkart-cbb69.firebaseio.com",
+    "project_id": "zoomkart-cbb69",
+    "storage_bucket": "zoomkart-cbb69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852196534918:android:bcdb27c35dedb59f923f07",
+        "android_client_info": {
+          "package_name": "com.example.zoomkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852196534918-baf9a9v9qschekucmngqqbiltqljefui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoomkart",
+            "certificate_hash": "caaf57d5534ef924380ee2451fb20c0dedd46210"
+          }
+        },
+        {
+          "client_id": "852196534918-8bpalqad3vefu6oh4oc1nf19b6cokr4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYxh_whxFzPASbMem8Bha0GT3saAGjaRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852196534918-8bpalqad3vefu6oh4oc1nf19b6cokr4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
